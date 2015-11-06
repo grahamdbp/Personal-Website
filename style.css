@@ -10,7 +10,7 @@ html, body, .container {
 
 body {
 	/* Background image for the page */
-	background: #254463 url('background.jpeg') no-repeat center center fixed;
+	background: #254463 url('https://cloud.githubusercontent.com/assets/13802659/11009538/c2426a66-84a5-11e5-8f6c-4e4fc665510a.JPG') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
